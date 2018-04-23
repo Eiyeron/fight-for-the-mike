@@ -11,3 +11,7 @@ They'll automatically attack.
 Build with Haxeflixel. The 4.3 release should work out of the box. If not, commit `1d1d6b036da5deaf614de43e6e52f28c972ca4be` was the one I developped this game.
 
 Note : I didn't bundle the source files for the music as it'd require the VST and stuff. I hope you'll understand.
+
+## Asset licencing
+
+The assets and their source are licenced under the [Creative Commons Attribution 4.0 International Public License][https://creativecommons.org/licenses/by/4.0/legalcode). It means that you're free to play with, but just add a reference to me (or this repository).
